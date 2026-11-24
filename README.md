@@ -51,7 +51,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/maheen-kamran/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[maheen.kamran16@gmail.com]"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[https://www.freelancer.pk/u/maheenk82]" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-2557A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/maheen-kamran/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:maheen.kamran16@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.freelancer.pk/u/maheenk82" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-2557A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
